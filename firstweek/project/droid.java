@@ -14,7 +14,6 @@ public class droid {
         // TODO Auto-generated method stub
         return "hello i'm the driod " + name;
 
-        
     }
 
     public void performingTask(String task) {
