@@ -1,7 +1,6 @@
 
 package firstweek.CONITIONAL_STATMENTS;
 
-import java.util.Scanner;
 
 public class studentsCourseSelection {
 
