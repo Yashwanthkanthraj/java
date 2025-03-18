@@ -36,6 +36,6 @@ public class q10 {
                 System.out.println("INVALID DAY");
                 break;
         }
-
+scanner.close();
     }
 }

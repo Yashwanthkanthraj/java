@@ -24,5 +24,6 @@ public class q11 {
             default:System.out.println("invalid month");
             break;
         }
+    scanner.close();
     }
 }
