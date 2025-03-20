@@ -7,7 +7,7 @@ public class wheather {
     int temp;
     boolean raining;
 
-    public git  wheather() {
+    public wheather() {
 
         Scanner scanner = new Scanner(System.in);
 
