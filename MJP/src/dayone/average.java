@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 
 //Write a program to calculate the average of three numbers and print the result.
 public class average {

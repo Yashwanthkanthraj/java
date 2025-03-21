@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 
 //Write a program to calculate the area of
 // a rectangle using multiplication and print the result.

@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 import java.util.Scanner;
 //Find the largest of three numbers.
 

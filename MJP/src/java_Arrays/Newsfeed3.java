@@ -1,5 +1,5 @@
 
-package firstweek.java_Arrays;
+package java_Arrays;
 
 import java.util.Arrays;
 

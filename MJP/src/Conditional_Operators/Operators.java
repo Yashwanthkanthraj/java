@@ -1,4 +1,4 @@
-package firstweek.Conditional_Operators;
+package Conditional_Operators;
 
 public class Operators {
     public static void main(String[] args) {

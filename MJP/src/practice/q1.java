@@ -1,4 +1,4 @@
-package firstweek.practice;
+package practice;
 
 //Write a program to check if two integers are equal, or if one is greater/less than the other.
 public class q1 {

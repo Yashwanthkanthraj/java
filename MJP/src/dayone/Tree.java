@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 
 public class Tree {
     // Define your tree class in this file!

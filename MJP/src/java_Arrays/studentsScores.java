@@ -1,4 +1,4 @@
-package firstweek.java_Arrays;
+package java_Arrays;
 
 public class studentsScores {
 

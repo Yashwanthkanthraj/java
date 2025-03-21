@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 
 public class expressionCalculation {
     public static void main(String[] args) {

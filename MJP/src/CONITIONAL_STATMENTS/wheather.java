@@ -1,4 +1,4 @@
-package firstweek.CONITIONAL_STATMENTS;
+package CONITIONAL_STATMENTS;
 
 import java.util.Scanner;
 
@@ -33,7 +33,7 @@ public class wheather {
     public static void main(String[] args) {
 
         wheather monday = new wheather();
-        monday.wheather();
+        System.out.println(monday);
 
     }
 }

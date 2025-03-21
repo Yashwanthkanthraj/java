@@ -1,4 +1,4 @@
-package firstweek.practice;
+package practice;
 
 public class q7 {
 

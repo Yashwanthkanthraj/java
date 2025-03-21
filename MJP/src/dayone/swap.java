@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 
 public class swap {
     public static void main(String[] args) {

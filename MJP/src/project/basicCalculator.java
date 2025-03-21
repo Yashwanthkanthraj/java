@@ -1,4 +1,4 @@
-package firstweek.project;
+package project;
 
 public class basicCalculator {
 

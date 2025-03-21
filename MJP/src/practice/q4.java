@@ -1,4 +1,4 @@
-package firstweek.practice;
+package practice;
 //Find the maximum of three numbers using nested ternary operators.
 
 import java.util.Scanner;

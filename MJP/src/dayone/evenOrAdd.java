@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 
 //Write a program to check if a number is even or odd using the modulo operator %.
 public class evenOrAdd {

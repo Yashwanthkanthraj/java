@@ -1,5 +1,5 @@
 
-package firstweek.CONITIONAL_STATMENTS;
+package CONITIONAL_STATMENTS;
 
 
 public class studentsCourseSelection {

@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 
 /*
  * Write a program to use compound assignment operators (+=, -=, *=, /=) 

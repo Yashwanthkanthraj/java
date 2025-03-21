@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 
 /*
  * Write a program to concatenate two strings and print the result.

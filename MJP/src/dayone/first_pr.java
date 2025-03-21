@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 
 /*No spaces: Class names cannot contain spaces."java program"
 which is not allowed.

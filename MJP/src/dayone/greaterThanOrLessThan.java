@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 
 /*
  * Greater Than or Equal To:

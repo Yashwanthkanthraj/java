@@ -1,4 +1,4 @@
-package firstweek.practice;
+package practice;
 
 //Check if a character is a vowel (a, e, i, o, u) using a switch statement.
 public class q5 {

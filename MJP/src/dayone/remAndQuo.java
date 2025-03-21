@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 /*Write a program to calculate the remainder of a division operation 
 and print both the quotient and remainder. */
 public class remAndQuo {

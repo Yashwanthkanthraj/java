@@ -1,4 +1,4 @@
-package firstweek.dayone;
+package dayone;
 
 /*Write a program to add two numbers and print the result.
 

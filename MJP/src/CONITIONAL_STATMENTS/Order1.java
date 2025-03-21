@@ -1,4 +1,4 @@
-package firstweek.CONITIONAL_STATMENTS;
+package CONITIONAL_STATMENTS;
 //if else than problem
 public class Order1 {
 
