@@ -4,7 +4,13 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
+
+     
+    
         Library library = new Library();
+        library.addBook("GOT", "JJ GARWIN");
+        library.addBook("GOT", "HARRY POTTER");
+
         Scanner scanner = new Scanner(System.in);
         boolean isRunning = true;
 

@@ -15,6 +15,10 @@ public class Main {
 
     public static void main(String[] args) { // Create the main Method
 
+        students.add(new Student("yash"));
+        students.add(new Student("myna"));
+        students.add(new Student("ravi"));
+
         boolean isRunning = true;
         while (isRunning) {
 
@@ -54,6 +58,7 @@ public class Main {
     }
 
     private static void addStudent() {
+
         System.out.print(" Enter a Student name: ");
         String name = scanner.nextLine();
         students.add(new Student(name));
@@ -100,7 +105,7 @@ public class Main {
 
         System.out.println("Select a Student: ");
         for (int i = 0; i < students.size(); i++) {
-            System.out.println((i + 1)+"." + students.get(i).getName());
+            System.out.println((i + 1) + "." + students.get(i).getName());
         }
 
         System.out.println("Enter A Student Number: ");
